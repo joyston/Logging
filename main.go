@@ -40,5 +40,6 @@ func SimpleLogger() {
 
 func main() {
 	// SimpleLogger()
-	CustomLogger()
+	//CustomLogger()
+	ExecuteLogrus()
 }
