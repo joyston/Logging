@@ -1,0 +1,6 @@
+INFO: 2022/08/06 16:02:32 main.go:26: Application
+WARNING:2022/08/06 16:02:32 main.go:27: Something might go wrong
+ERROR:2022/08/06 16:02:32 main.go:28: Something wrong
+INFO: 2022/08/06 16:02:44 main.go:26: Application
+WARNING:2022/08/06 16:02:44 main.go:27: Something might go wrong
+ERROR:2022/08/06 16:02:44 main.go:28: Something wrong
